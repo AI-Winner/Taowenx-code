@@ -5,3 +5,5 @@
 DataImport文件:
     原始数据处理。Rawdata读取、txt文件生成、pkl文件生成
     20191102：word2vec训练最好使用txt文件
+    
+MultiClass.py ——XGB多类别概率输出
