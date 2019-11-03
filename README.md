@@ -7,3 +7,7 @@ DataImport文件:
     20191102：word2vec训练最好使用txt文件
     
 MultiClass.py ——XGB多类别概率输出
+
+DataProcess.py ——TF-IDF模型
+    模型参数：ngram_range=(1, 4), min_df=0.0, max_df=1.0
+
