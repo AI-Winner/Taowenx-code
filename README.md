@@ -10,4 +10,8 @@ MultiClass.py ——XGB多类别概率输出
 
 DataProcess.py ——TF-IDF模型
     模型参数：ngram_range=(1, 4), min_df=0.0, max_df=1.0
+    
+ 
+BOW处理训练集和测试集.ipynb ——BOW模型
+    模型参数：ngram_range=(1,4),stop_words = None, min_df=0.0, max_df=1.0
 
